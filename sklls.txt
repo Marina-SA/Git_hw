@@ -1,0 +1,10 @@
+Git & GitHub – системы контроля версий
+JavaScript, TypeScript – переменные, ООП, типизация
+ESLint, Prettier
+WebdriverIO, Playwright – автоматизация UI
+Тестирование API – REST API, связка с UI-тестами
+BDD (Cucumber)
+Моки и скриншотное тестирование
+CI/CD – интеграция тестов в пайплайны
+Построение Test Automation Framework
+Командная работа
